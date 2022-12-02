@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with React App With React Router
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Work Process:
+
+1.
+2.
+3.
+4.
+5.
+6.
 
 In the project directory, you can run:
 
