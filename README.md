@@ -4,12 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Work Process:
 
-1.
-2.
-3.
-4.
-5.
-6.
+step 01:
+
+1. npm install react-router-dom@6
+2. App Component into BrowserRouter
+3. Routes
+4. Route
+5. Route path="/" element={Home Home} for every page Route
+6. create not found page path="/\*" element={NotFound NotFound}
+
+step 2:
+NavLink create for routing
 
 In the project directory, you can run:
 
